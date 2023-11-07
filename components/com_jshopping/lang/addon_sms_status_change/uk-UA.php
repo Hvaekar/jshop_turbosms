@@ -14,4 +14,4 @@
 	define('_JSHOP_SMSSC_VENDOR', "Продавець");
 	define('_JSHOP_SMSSC_ALWAYS_SEND', "Відправляти завжди?");
 	define('_JSHOP_SMSSC_ALWAYS_SEND_CHECK', "Тільки якщо встановлений чекбокс 'Повідомити користувача'");
-	define('_JSHOP_SMSSC_FOR_DONATE', "На чоколадку:<br>Bank: 5375 4141 2900 0955<br>USDT (ERC20): 0xc39368E46902aB74c64772E09B594DA52dD0ABB1<br>USDT (TRC20): TGXpv3Gk5pnWBtyfQwUKq4HYx2Utt56FGg");
+	define('_JSHOP_SMSSC_FOR_DONATE', "На чоколадку: <a href='https://send.monobank.ua/6RdYrEoiDx'>відправити</a>");
