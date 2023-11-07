@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="3.0.0" method="upgrade" group="jshoppingorder">
+    <name>JoomShopping addon - Send SMS for status change</name>
+    <creationDate>1.11.2023</creationDate>
+    <author>Hvaekar</author>
+    <authorEmail>hvaekar@gmail.com</authorEmail>
+    <authorUrl>https://github.com/Hvaekar</authorUrl>
+    <copyright></copyright>
+    <license>Open Source License, GNU/GPL</license>
+    <version>1.0.0</version>	
+    <description>sms_status_change</description> 
+    <files>
+        <filename plugin="sms_status_change">sms_status_change.php</filename>
+    </files>
+</extension>
