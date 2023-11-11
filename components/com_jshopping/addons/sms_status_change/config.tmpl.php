@@ -39,6 +39,15 @@
             <?php echo \JHTML::_('select.genericlist', $always_options, 'params[always]', 'class="chzn-color-state form-select" style="max-width:240px"', 'value', 'text', ( isset($params->always) ? $params->always : 1 ) ); ?>
         </div>
     </div>
+
+    <div class="control-group">
+        <div class="control-label">
+            <label class="hasTooltip" title=""><?php echo _JSHOP_SMSSC_CH_FINISH; ?></label>
+        </div>
+        <div class="controls">
+            <?php echo \JHTML::_('select.genericlist', $yes_no_options, 'params[ch_finish]', 'class="chzn-color-state form-select" style="max-width:240px"', 'value', 'text', ( isset($params->ch_finish) ? $params->ch_finish : 1 ) ); ?>
+        </div>
+    </div>
 	
 	<div class="control-group">
         <div class="control-label">
